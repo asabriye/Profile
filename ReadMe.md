@@ -14,7 +14,7 @@ You connect with me on : [![Linkedin Badge](https://img.shields.io/badge/-Abdull
 Get in touch with me on : [![Gmail Badge](https://img.shields.io/badge/-abdullahisabriye@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abdullahisabriye@gmail.com)](mailto:abdullahisabriye@gmail.com)
 <br/>
 <br/>
-You can follow me on [![Twitter Badge](https://img.shields.io/twitter/follow/abdullahiisab?style=social)]
+You can follow me on [!Twitter Badge (https://img.shields.io/twitter/follow/abdullahiisab?style=social)]
 
 <br />
 
